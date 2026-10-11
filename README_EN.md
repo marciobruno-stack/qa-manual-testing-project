@@ -26,6 +26,7 @@ To showcase essential QA competencies:
 
 ## 📂 Project Structure
 
+*   `/functional-analysis` → Functional Analysis, BPMN/UML process modeling, BDD feature files, and SQL tests (MB Way payment case)
 *   `/test-plan` → Test Strategy and Planning
 *   `/test-cases` → Detailed Test Cases (Happy paths & Negative testing)
 *   `/test-scenarios` → High-level Test Scenarios

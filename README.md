@@ -24,6 +24,7 @@ Mostrar competências essenciais de QA:
 
 ## 📂 Estrutura do projeto
 
+*   `/functional-analysis` → Análise funcional, diagramas BPMN/UML, BDD (.feature) e queries SQL (Case MB Way)
 *   `/test-plan` → plano de testes
 *   `/test-cases` → casos de teste detalhados
 *   `/test-scenarios` → cenários de teste
